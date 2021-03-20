@@ -40,10 +40,13 @@ Actually there are many option to install Openlitespeed but we choose installati
 ```bash
 # wget -O - http://rpms.litespeedtech.com/debian/enable_lst_debain_repo.sh | bash
 ```
+*For the details step of installing Openlitespeed from repository you can visit <a href="https://openlitespeed.org/kb/install-ols-from-litespeed-repositories/">this link.</a>
+
 Next, we install Openlitespeed web server package and lsphp73 package for php programming language in moodle.
 ```bash
 $ sudo apt-get install openlitespeed lsphp73 lsphp73* -y
 ```
-After installation package success, we must set admin password of Openlitespeed web config.
-For the details step of installing Openlitespeed from repository you can visit <a href="https://openlitespeed.org/kb/install-ols-from-litespeed-repositories/">this link.</a>
+
+After installation package success, we must set admin password of Openlitespeed web config. we changing admin password with running file ```/usr/local/lsws/admin/misc/admpass.sh``` and we following the instructions that appear to changing default password with new password.<br/>
+
 
