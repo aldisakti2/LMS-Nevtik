@@ -178,3 +178,5 @@ For this installation, we install Moodle by accessing the Moodle by LMS's IP Add
    0  */24  * * * sudo systemctl restart lsws.service //For auto restarting openlitespeed
    ```
    *Note: you can change the scheduler with using command ```crontab -e```
+
+Link of E-Learning Nevtik: https://academy.nevtik.org
