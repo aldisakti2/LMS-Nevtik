@@ -16,6 +16,8 @@ LMS Software        : Moodle v3.10.2<br/>
 Web Server          : OpenLiteSpeed 1.6.20<br/>
 Database Server     : MariaDB<br/>
 
+
+## Step By Step
 ### Install VM on Proxmox<br/>
 
 ### IP Addressing Server<br/>
@@ -36,7 +38,6 @@ $ sudo tar -xvf moodle-3.10.2.tgz
 ### Openlitespeed Installation<br/>
 Actually there are many option to install Openlitespeed but we choose installation Openlitespeed using Openlitespeed repository. Because we using Openlitespeed repository for install all of the dependency of the Openlitespeed, so we must adding Openlitespeed repository to the Ubuntu repository with command ```wget```
 ```bash
-$ sudo su
 # wget -O - http://rpms.litespeedtech.com/debian/enable_lst_debain_repo.sh | bash
 ```
 Next, we install Openlitespeed web server package and lsphp73 package for php programming language in moodle.
