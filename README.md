@@ -171,7 +171,7 @@ For this installation, we install Moodle by accessing the Moodle by LMS's IP Add
    - We changing file_uploads, max_post_file, and memory_limits on ```/usr/local/lsws/lsphp/lsphp73/etc/php/litespeed/php.ini```
      *Note: All can be change dpeending on performance requirements
 5. Crontab
-   So, we using ```crontab``` to scheduling some commands like for renewing SSL, clear cache, and automatic restart openlitespeed.
+   - So, we using ```crontab``` to scheduling some commands like for renewing SSL, clear cache, and automatic restart openlitespeed.
    ```bash
    0  0 1 */3 * certbot renew //For renewing SSL Certificate
    0  */3 * * * sync; echo 3 | sudo tee /proc/sys/vm/drop_caches //For clearing caches
