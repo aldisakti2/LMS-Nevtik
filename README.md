@@ -179,4 +179,5 @@ For this installation, we install Moodle by accessing the Moodle by LMS's IP Add
    ```
    *Note: you can change the scheduler with using command ```crontab -e```
 
+For more informations about this LMS, you can call admin of Nevtik E-Learning
 Link of E-Learning Nevtik: https://academy.nevtik.org
