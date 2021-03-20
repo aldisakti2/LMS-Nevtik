@@ -158,7 +158,7 @@ For this installation, we install Moodle by accessing the Moodle by LMS's IP Add
       collation-server = utf8mb4_unicode_ci
       skip-character-set-client-handshake
       ```
-      *Note: Some value can change depending on performance requirements
+      *Note: Some value can change depending on performance requirements<br/>
       *Reference Links: https://severalnines.com/database-blog/database-performance-tuning-mariadb
     - Improvement in the ```/etc/mysql/mariadb.conf.d/50-mysqld_safe.cnf``` like this: 
       ```bash
