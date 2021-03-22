@@ -173,12 +173,12 @@ For this installation, we install Moodle by accessing the Moodle by LMS's IP Add
 5. Crontab
    - So, we using ```crontab``` to scheduling some commands like for renewing SSL, clear cache, and automatic restart openlitespeed.
       ```bash
-   0  0 1 */3 * certbot renew //For renewing SSL Certificate
-   0  */3 * * * sync; echo 3 | sudo tee /proc/sys/vm/drop_caches //For clearing caches
-   0  */24  * * * sudo systemctl restart lsws.service //For auto restarting openlitespeed
-   0  */0-2 *  *  *  php /usr/local/lsws/moodle/moodle/admin/cli/cron.php
-   ```
-   *Note: you can change the scheduler with using command ```crontab -e```<br/>
+      0  0 1 */3 * certbot renew //For renewing SSL Certificate
+      0  */3 * * * sync; echo 3 | sudo tee /proc/sys/vm/drop_caches //For clearing caches
+      0  */24  * * * sudo systemctl restart lsws.service //For auto restarting openlitespeed
+      0  */0-2 *  *  *  php /usr/local/lsws/moodle/moodle/admin/cli/cron.php
+      ```
+      *Note: you can change the scheduler with using command ```crontab -e```<br/>
    
    - Cron rules for some task on Moodle itself, for detail information about that you can visit ```Administration\Site Administration\Server\Task\Scheduled Tasks```<br/>
      Reference Links: https://docs.moodle.org/310/en/Scheduled_tasks#Format_for_scheduling_tasks<br/>
