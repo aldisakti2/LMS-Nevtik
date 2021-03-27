@@ -16,6 +16,6 @@ LMS Software        : Moodle v3.10.2<br/>
 Web Server          : OpenLiteSpeed 1.6.20<br/>
 Database Server     : MariaDB<br/>
 <br/>
-For any information about our documentation you can visit docs/index.md <br/>
+For any information about our documentation you can visit docs/installation.md <br/>
 For more informations about this LMS, you can call admin of Nevtik E-Learning<br/>
 Link of E-Learning Nevtik: https://academy.nevtik.org
