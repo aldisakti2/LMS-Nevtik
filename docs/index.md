@@ -1,5 +1,4 @@
 ## Step By Step
-### Install VM on Proxmox<br/>
 
 ### IP Addressing Server<br/>
 In this step the lms server using DHCP Reservation IP and in the default configuration
