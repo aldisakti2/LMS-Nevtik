@@ -1,11 +1,25 @@
 username,firstname,lastname,password,email
-nevtik1,Ahmad,Bayhaqi Saputra,Nevtik6#,01@example.com
-nevtik2,Amatul,Sharin,Nevtik6#,02@example.com
-nevtik3,Ansof,Habibunnadjar,Nevtik6#,03@example.com
-nevtik4,Dani,Dwi Arya Putra,Nevtik6#,04@example.com
-nevtik5,Dwi,Rangga Saputra,Nevtik6#,05@example.com
-nevtik6,Hermawan,Sentyaki Sartijo,Nevtik6#,06@example.com
-nevtik7,Maisaan,Muzakki Ramadhan,Nevtik6#,07@example.com
-nevtik8,Muhammad,Jamil,Nevtik6#,08@example.com
-nevtik9,Muhammad,Yusril,Nevtik6#,09@example.com
-nevtik10,Raja,Haikal Madjidqoba,Nevtik6#,10@example.com
+nevtik_,Afifah,Indriyani,Nevtik7$,afifah@example.com
+nevtik~,Mila,Nabila,Nevtik&$,mila@example.com
+nevtik1,Ahmad,Bayhaqi Saputra,Nevtik6#,ahmadbayhaqi@example.com
+nevtik2,Amatul,Sharin,Nevtik6#,amatulsharin@example.com
+nevtik3,Ansof,Habibunnadjar,Nevtik6#,ansof@example.com
+nevtik4,Dani,Dwi Arya Putra,Nevtik6#,danidwi@example.com
+nevtik5,Dwi,Rangga Saputra,Nevtik6#,dwirangga@example.com
+nevtik6,Hermawan,Sentyaki Sartijo,Nevtik6#,heramwan@example.com
+nevtik7,Maisaan,Muzakki Ramadhan,Nevtik6#,maisaanmuzakki@example.com
+nevtik8,Muhammad,Jamil,Nevtik6#,jamil@example.com
+nevtik9,Muhammad,Yusril,Nevtik6#,yusril@example.com
+nevtik10,Raja,Haikal Madjidqoba,Nevtik6#,rajahaikal@example.com
+nevtik11,Adam,Darusman,Nevtik7$,adam@example.com
+nevtik12,Akmal,Adi Saputra,Nevtik7$,akmal@example.com
+nevtik13,Athaya,Zhafari Saputra,Nevtik7$,athaya@example.com
+nevtik14,Deflorio,Arya Nizam,Nevtik7$,deflorio@example.com
+nevtik15,Farah, Dewi Shakila,Nevtik7$,farah@example.com
+nevtik16,Galuh,Arya Damar,Nevtik7$,galuh@example.com
+nevtik17,Kilta,Aufa Qorina,Nevtik7$,kilta@example.com
+nevtik18,Mochamad,Tegar Santoso,Nevtik7$,tegar@example.com
+nevtik19,Muhammad,Aris Septanugroho,Nevtik7$,aris@example.com
+nevtik20,Zahra,Indica Fathsyah,Nevtik7$,indica@example.com
+nevtik21,Zahra,Aulia,Nevtik6#,zahraaulia@example.com
+nevtik22,Nanda,Putriasari,Nevtik7$,nanda@example.com
