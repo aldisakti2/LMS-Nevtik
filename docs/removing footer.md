@@ -1,4 +1,4 @@
-###Removing Footer
+### Removing Footer
 
 In this step, we just adding this code at ```Site Administrator/Themes/Moove/Advance/Raw SCSS```
 
