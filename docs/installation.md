@@ -65,7 +65,7 @@ After that we starting to create database for Moodle like this:
 $ sudo mysql -u root -p
 Enter password:
 MariaDB [(none)]> CREATE DATABASE moodle DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
-MariaDB [(none)]> CREATE USER 'admin'@'localhost' IDENTIFIED BY 'nevtikskillsjuara_2021';
+MariaDB [(none)]> CREATE USER 'admin'@'localhost' IDENTIFIED BY 'redacted';
 MariaDB [(none)]> GRANT ALL PRIVILEGES ON moodle.* TO 'admin'@'localhost';
 MariaDB [(none)]> FLUSH PRIVILEGES;
 MariaDB [(none)]> exit
